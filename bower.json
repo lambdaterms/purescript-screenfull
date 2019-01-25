@@ -1,5 +1,6 @@
 {
   "name": "purescript-screenfull",
+  "license": "BSD-3-Clause",
   "ignore": [
     "**/.*",
     "node_modules",
